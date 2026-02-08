@@ -10,6 +10,6 @@ I'm David Silva Sánchez. A PhD student in Applied Mathematics at Yale Universit
 
 * [cryoSBI](https://github.com/flatironinstitute/cryoSBI) (Collaborator): A simulation-based inference pipeline for estimating the posterior probability of conformational structures given cryo-EM data. Set the basis for the initial design of the API, and collaborated in testing/developing the current API. Results available in our [PNAS article](https://www.pnas.org/doi/10.1073/pnas.2420158122).
 
-* [AnaVox](https://github.com/flatironinstitute/AnaVox). Adapted the PCA pipeline from the Cryo-EM Challenge for the analysis of volume series obtained by different heterogeneity methods. See our [preprint] for results.
+* [AnaVox](https://github.com/flatironinstitute/AnaVox). Adapted the PCA pipeline from the Cryo-EM Challenge for the analysis of volume series obtained by different heterogeneity methods. See our [Nature Communications publication](https://www.nature.com/articles/s41467-025-67821-2) for results.
 
 * [Observation on Kmeans](https://github.com/DSilva27/Observation-on-kmeans): Theoretical study on the behaviour of Lloyd K-Means in the high noise, high dimension regime for a simple k=2 GMM Model. A description of the theory and numerical experiments can be found in our [manuscript in ArXiv](https://arxiv.org/abs/2506.14952).
